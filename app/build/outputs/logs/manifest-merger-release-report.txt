@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\872da7ec8548b61e6840becdcf623634\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\814d5ec7eb3fdc02440c35f45ce671d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c95d7a28ef374815914f78199a4b664a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\d8309267ccee01c454f9daf1c37153d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\a13b24550211411726b1806679675118\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\2bf52b3727ed2a1fbc7644344562b91c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\3c227511046c741f9ab043933ba88af8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\21a61a5782ede1d7993c52622fcc5b7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\2e06abd9ad1d766089fb4f84fbe871b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\bdef9c62513b5d77e3b5d8aac315cf8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\ab87228cc534aefbaa570b7a1970e501\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\d67d657b85525c6c95868be056145a33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\ba2afa01d7e771c5a18d67921a8077a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\4fcc7b986f5a911f953d29a97d2adbbf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\8df328a600fdc6f13a64fdb74f770f43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\cf40f348721e14f0f71794bf4ce8b5ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\7ebeb68be56be9bd36ba806cdfaac6db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\94539e4ec603f082dbc8eff9f3558df1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\500f05f0c3befc7a4280575ff1ea3292\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\dd2312063ce4a8d23c0db2e64dccafcd\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c7067143ccb253df3ef8d01379527694\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\e6dee7023f4d3c07068291e27994363a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\0ae4e4e202545d564bbe12d56a7ab4c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c3331cb713eadcd17b497e563b04c634\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\1c8cf14bcb61b96f597b65146b312bf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\15731609617392b6ce2d8390e784a62c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\6efcd35d36b15f1ada6098ee96cfd126\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\9995ece36d697a123ec68a89434b442b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\79112b3fd27e9690fc95db567f368a04\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\9384f2bc532ec942992d4e9905537595\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\8a8db258a1a042353ee62ebeec69e74a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\872da7ec8548b61e6840becdcf623634\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\872da7ec8548b61e6840becdcf623634\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c95d7a28ef374815914f78199a4b664a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c95d7a28ef374815914f78199a4b664a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\500f05f0c3befc7a4280575ff1ea3292\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\500f05f0c3befc7a4280575ff1ea3292\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\dd2312063ce4a8d23c0db2e64dccafcd\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\dd2312063ce4a8d23c0db2e64dccafcd\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\500f05f0c3befc7a4280575ff1ea3292\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:11:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:12:9-44
+activity#com.example.oraritreni.MainActivity
+ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:20:27-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:24:5-78
+	android:name
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:25:22-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml:26:22-64
+uses-sdk
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\872da7ec8548b61e6840becdcf623634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\872da7ec8548b61e6840becdcf623634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\814d5ec7eb3fdc02440c35f45ce671d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\814d5ec7eb3fdc02440c35f45ce671d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c95d7a28ef374815914f78199a4b664a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c95d7a28ef374815914f78199a4b664a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\d8309267ccee01c454f9daf1c37153d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\d8309267ccee01c454f9daf1c37153d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\a13b24550211411726b1806679675118\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\a13b24550211411726b1806679675118\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\2bf52b3727ed2a1fbc7644344562b91c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\2bf52b3727ed2a1fbc7644344562b91c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\3c227511046c741f9ab043933ba88af8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\3c227511046c741f9ab043933ba88af8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\21a61a5782ede1d7993c52622fcc5b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\21a61a5782ede1d7993c52622fcc5b7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\2e06abd9ad1d766089fb4f84fbe871b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\2e06abd9ad1d766089fb4f84fbe871b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\bdef9c62513b5d77e3b5d8aac315cf8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\bdef9c62513b5d77e3b5d8aac315cf8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\ab87228cc534aefbaa570b7a1970e501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\ab87228cc534aefbaa570b7a1970e501\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\d67d657b85525c6c95868be056145a33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\d67d657b85525c6c95868be056145a33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\ba2afa01d7e771c5a18d67921a8077a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\ba2afa01d7e771c5a18d67921a8077a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\4fcc7b986f5a911f953d29a97d2adbbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\4fcc7b986f5a911f953d29a97d2adbbf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\8df328a600fdc6f13a64fdb74f770f43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\8df328a600fdc6f13a64fdb74f770f43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\cf40f348721e14f0f71794bf4ce8b5ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\cf40f348721e14f0f71794bf4ce8b5ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\7ebeb68be56be9bd36ba806cdfaac6db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\7ebeb68be56be9bd36ba806cdfaac6db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\94539e4ec603f082dbc8eff9f3558df1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\94539e4ec603f082dbc8eff9f3558df1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\500f05f0c3befc7a4280575ff1ea3292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\500f05f0c3befc7a4280575ff1ea3292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\dd2312063ce4a8d23c0db2e64dccafcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\dd2312063ce4a8d23c0db2e64dccafcd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c7067143ccb253df3ef8d01379527694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c7067143ccb253df3ef8d01379527694\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\e6dee7023f4d3c07068291e27994363a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\e6dee7023f4d3c07068291e27994363a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\0ae4e4e202545d564bbe12d56a7ab4c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\0ae4e4e202545d564bbe12d56a7ab4c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c3331cb713eadcd17b497e563b04c634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\c3331cb713eadcd17b497e563b04c634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\1c8cf14bcb61b96f597b65146b312bf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\1c8cf14bcb61b96f597b65146b312bf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\15731609617392b6ce2d8390e784a62c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\15731609617392b6ce2d8390e784a62c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\6efcd35d36b15f1ada6098ee96cfd126\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\6efcd35d36b15f1ada6098ee96cfd126\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\9995ece36d697a123ec68a89434b442b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\9995ece36d697a123ec68a89434b442b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\79112b3fd27e9690fc95db567f368a04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\79112b3fd27e9690fc95db567f368a04\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\9384f2bc532ec942992d4e9905537595\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\9384f2bc532ec942992d4e9905537595\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\8a8db258a1a042353ee62ebeec69e74a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Giuseppe\.gradle\caches\transforms-2\files-2.1\8a8db258a1a042353ee62ebeec69e74a\AndroidManifest.xml:20:5-44
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+		ADDED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Desktop\RepositoryProgetto\OrariTreni\app\src\main\AndroidManifest.xml
